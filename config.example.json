@@ -1,0 +1,6 @@
+{
+    "path": "download",
+    "port": 8080,
+    "domain": "http://example.com:8080/",
+    "token": "000000000:AAAAAAA_AAAAAAAAAAAAAAAAAAAAAAAAAAA"
+}
