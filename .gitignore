@@ -28,3 +28,6 @@ public/components
 #some save
 
 config.json
+
+#default download dir
+download

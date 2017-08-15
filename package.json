@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bson": "^1.0.4",
     "ecstatic": "^2.2.1",
     "express": "^4.15.4",
     "node-persist": "^2.1.0",
