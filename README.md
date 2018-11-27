@@ -1,4 +1,7 @@
 # Telegram BT Bot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mmis1000/telegram-bt-bot.svg)](https://greenkeeper.io/)
+
 A Bot that download file from BT network by telegram command.
 
 ## To set up
