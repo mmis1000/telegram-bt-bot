@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bson": "^1.0.4",
+    "bson": "^1.1.4",
     "ecstatic": "^2.2.2",
     "express": "^4.17.1",
     "filesize": "^3.5.10",
